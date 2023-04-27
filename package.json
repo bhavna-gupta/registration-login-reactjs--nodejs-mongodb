@@ -11,7 +11,7 @@
     "schema-validator": "^3.3.1"
   },
   "scripts": {
-    "start": "node server"
+    "start": "node index"
   },
   "engines" : { 
     "node" : ">=14.20.1" 
